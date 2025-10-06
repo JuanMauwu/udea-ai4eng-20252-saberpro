@@ -4,5 +4,4 @@ Proyecto de la Universidad de Antioquia para el curso **Modelos y Simulación de
 |Nombre|Cédula|Programa|
 |--------|--------|----------|
 |Juan Manuel Velásquez Castañeda|1037856273|Ingeniería de Sistemas|
-|??? |??? |??? |
-|??? |??? |??? |
+|Jorge Luis Rodriguez Jimenez|1027941053|Ingeniería de Sistemas|
