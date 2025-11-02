@@ -3,6 +3,6 @@ Proyecto de la Universidad de Antioquia para el curso **Modelos y Simulación de
 ## **Integrantes:**
 |Nombre|Cédula|Kaggle username |Programa|
 |--------|--------|----------|----------|
-|Juan Manuel Velásquez Castañeda|1037856273|juanmavc111 | Ingeniería de Sistemas|
+|Juan Manuel Velásquez Castañeda|1037856273|JUAN MANUEL VELASQUEZ|Ingeniería de Sistemas|
 
 ## **Video Entrega #2:** [Click aquí](https://youtu.be/RgFiEPDFEYI?si=EccvGAuvnkD_-4VS)
